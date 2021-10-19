@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solução](https://your-solution-url.com)
+- Solution URL: [Solução](https://www.frontendmentor.io/solutions/stats-preview-card-component-ZfrGKpLve)
 - Live Site URL: [Site](https://jefersonpimentel.github.io/Cartao-de-visualizacao-de-estatisticas/)
 
 ### Built with
