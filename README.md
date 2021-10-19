@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Screenshot
 
-(./screenshots/projeto-web.png)
-(./screenshots/projeto-mobile-pronto.png)
+<img src="/screenshots/projeto-web.png" alt="Screenshot"/>
+<img src="/screenshots/projeto-mobile-pronto.png" alt="Screenshot"/>
 
 ### Links
 
