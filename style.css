@@ -9,6 +9,7 @@
 body {
     background-color: hsl(233, 47%, 7%);
     font-size: 15px;
+    
 }
 
 main {
@@ -20,9 +21,15 @@ main {
 }
 
 .header {
+    background-image: url(./images/image-header-desktop.jpg);
+    background-color: hsl(277, 64%, 61%);
+    background-blend-mode : multiply;
     float: right;
+    background-repeat: no-repeat;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    width: 500px;
+    height: 410px;
 }
 
 .container {
@@ -90,15 +97,19 @@ main {
 }
 
 .header {
+    background-image: url(./images/image-header-mobile.jpg);
+    background-position: center;
+    background-size: cover;
     width: 100%;
-    border-radius: 5px;
-    padding-bottom: 40px;
+    height: 300px;
+    border-top: 5px;
 }
 
 .content-title {   
     justify-content: center;
     text-align: center;
     padding: 20px;
+    padding-top: 330px;
 }
 
 .content-description {
